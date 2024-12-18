@@ -70,6 +70,356 @@ var simplemaps_usmap_mapdata={
     location_image_url: ""
   },
   state_specific: {
+
+alabama: {
+    name: "Alabama",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Alabama" }, "*"),
+},
+
+alaska: {
+    name: "Alaska",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Alaska" }, "*"),
+},
+
+arizona: {
+    name: "Arizona",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Arizona" }, "*"),
+},
+
+arkansas: {
+    name: "Arkansas",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Arkansas" }, "*"),
+},
+
+california: {
+    name: "California",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "California" }, "*"),
+},
+
+colorado: {
+    name: "Colorado",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Colorado" }, "*"),
+},
+
+connecticut: {
+    name: "Connecticut",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Connecticut" }, "*"),
+},
+
+delaware: {
+    name: "Delaware",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Delaware" }, "*"),
+},
+
+florida: {
+    name: "Florida",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Florida" }, "*"),
+},
+
+georgia: {
+    name: "Georgia",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Georgia" }, "*"),
+},
+
+hawaii: {
+    name: "Hawaii",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Hawaii" }, "*"),
+},
+
+idaho: {
+    name: "Idaho",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Idaho" }, "*"),
+},
+
+illinois: {
+    name: "Illinois",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Illinois" }, "*"),
+},
+
+indiana: {
+    name: "Indiana",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Indiana" }, "*"),
+},
+
+iowa: {
+    name: "Iowa",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Iowa" }, "*"),
+},
+
+kansas: {
+    name: "Kansas",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Kansas" }, "*"),
+},
+
+kentucky: {
+    name: "Kentucky",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Kentucky" }, "*"),
+},
+
+louisiana: {
+    name: "Louisiana",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Louisiana" }, "*"),
+},
+
+maine: {
+    name: "Maine",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Maine" }, "*"),
+},
+
+maryland: {
+    name: "Maryland",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Maryland" }, "*"),
+},
+
+massachusetts: {
+    name: "Massachusetts",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Massachusetts" }, "*"),
+},
+
+michigan: {
+    name: "Michigan",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Michigan" }, "*"),
+},
+
+minnesota: {
+    name: "Minnesota",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Minnesota" }, "*"),
+},
+
+mississippi: {
+    name: "Mississippi",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Mississippi" }, "*"),
+},
+
+missouri: {
+    name: "Missouri",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Missouri" }, "*"),
+},
+
+montana: {
+    name: "Montana",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Montana" }, "*"),
+},
+
+nebraska: {
+    name: "Nebraska",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Nebraska" }, "*"),
+},
+
+nevada: {
+    name: "Nevada",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Nevada" }, "*"),
+},
+
+new_hampshire: {
+    name: "New Hampshire",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "New Hampshire" }, "*"),
+},
+
+new_jersey: {
+    name: "New Jersey",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "New Jersey" }, "*"),
+},
+
+new_mexico: {
+    name: "New Mexico",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "New Mexico" }, "*"),
+},
+
+new_york: {
+    name: "New York",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "New York" }, "*"),
+},
+
+north_carolina: {
+    name: "North Carolina",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "North Carolina" }, "*"),
+},
+
+north_dakota: {
+    name: "North Dakota",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "North Dakota" }, "*"),
+},
+
+ohio: {
+    name: "Ohio",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Ohio" }, "*"),
+},
+
+oklahoma: {
+    name: "Oklahoma",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Oklahoma" }, "*"),
+},
+
+oregon: {
+    name: "Oregon",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Oregon" }, "*"),
+},
+
+pennsylvania: {
+    name: "Pennsylvania",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Pennsylvania" }, "*"),
+},
+
+rhode_island: {
+    name: "Rhode Island",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Rhode Island" }, "*"),
+},
+
+south_carolina: {
+    name: "South Carolina",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "South Carolina" }, "*"),
+},
+
+south_dakota: {
+    name: "South Dakota",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "South Dakota" }, "*"),
+},
+
+tennessee: {
+    name: "Tennessee",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Tennessee" }, "*"),
+},
+
+texas: {
+    name: "Texas",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Texas" }, "*"),
+},
+
+utah: {
+    name: "Utah",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Utah" }, "*"),
+},
+
+vermont: {
+    name: "Vermont",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Vermont" }, "*"),
+},
+
+virginia: {
+    name: "Virginia",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Virginia" }, "*"),
+},
+
+washington: {
+    name: "Washington",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Washington" }, "*"),
+},
+
+west_virginia: {
+    name: "West Virginia",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "West Virginia" }, "*"),
+},
+
+wisconsin: {
+    name: "Wisconsin",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Wisconsin" }, "*"),
+},
+
+wyoming: {
+    name: "Wyoming",
+    color: "#FFE4C4",
+    zoomable: "yes",
+    click: () => window.parent.postMessage({ state: "Wyoming" }, "*"),
+},
     HI: {
       name: "Hawaii"
     },
